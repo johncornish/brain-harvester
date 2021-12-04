@@ -1,0 +1,5 @@
+.idea
+_roam_exports/*
+_unzipped_exports/*
+
+!.gitkeep
