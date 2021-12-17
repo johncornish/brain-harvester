@@ -1,6 +1,6 @@
 .idea
 _sites/*
 _roam_exports/*
-_unzipped_exports/*
+_unzipped_export/*
 
 !.gitkeep
